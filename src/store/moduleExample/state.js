@@ -1,0 +1,3 @@
+export default  {
+    isShowMenu: false
+}
